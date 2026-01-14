@@ -4,6 +4,28 @@ A full-stack project management application built with Django, GraphQL, React, a
 
 ![Project Management System](https://img.shields.io/badge/Django-6.0-green) ![React](https://img.shields.io/badge/React-18.2-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) ![GraphQL](https://img.shields.io/badge/GraphQL-Enabled-pink)
 
+## 📸 Screenshots
+
+### Welcome Screen
+![Welcome Screen](./screenshots/welcome-screen.png)
+*Beautiful landing page with feature highlights*
+
+### Project Dashboard
+![Project Dashboard](./screenshots/project-dashboard.png)
+*Visual project cards with status indicators and progress tracking*
+
+### Task Board (Kanban View)
+![Task Board](./screenshots/task-board.png)
+*Drag-free Kanban board with To Do, In Progress, and Done columns*
+
+### Create Project Modal
+![Create Project](./screenshots/create-project.png)
+*Modern modal for creating new projects*
+
+### Task Details & Comments
+![Task Details](./screenshots/task-details.png)
+*Edit tasks and add collaborative comments*
+
 ## 🌟 Features
 
 ### Multi-Tenancy
@@ -69,7 +91,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Hiomio/Kanban---Dashboard.git
+git clone <your-repository-url>
 cd project-management-system
 ```
 
