@@ -7,24 +7,21 @@ A full-stack project management application built with Django, GraphQL, React, a
 ## 📸 Screenshots
 
 ### Welcome Screen
-![Welcome Screen](./screenshots/welcome-screen.png)
+![Welcome Screen](https://github.com/Hiomio/Kanban---Dashboard/blob/main/Screenshot%20(86).png)
 *Beautiful landing page with feature highlights*
 
 ### Project Dashboard
-![Project Dashboard](./screenshots/project-dashboard.png)
+![Project Dashboard](https://github.com/Hiomio/Kanban---Dashboard/blob/main/Screenshot%20(88).png)
 *Visual project cards with status indicators and progress tracking*
 
 ### Task Board (Kanban View)
-![Task Board](./screenshots/task-board.png)
+![Task Board](https://github.com/Hiomio/Kanban---Dashboard/blob/main/Screenshot%20(89).png)
 *Drag-free Kanban board with To Do, In Progress, and Done columns*
 
-### Create Project Modal
-![Create Project](./screenshots/create-project.png)
+### Create Organization Modal
+![Create Organization](https://github.com/Hiomio/Kanban---Dashboard/blob/main/Screenshot%20(87).png)
 *Modern modal for creating new projects*
 
-### Task Details & Comments
-![Task Details](./screenshots/task-details.png)
-*Edit tasks and add collaborative comments*
 
 ## 🌟 Features
 
